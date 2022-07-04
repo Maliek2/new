@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Contact Me
-## About Me (https://www.adball.tech)
-### Privacy Policy (https://www.adball.tech/privacy)
+# [Contact Me](https://www.adball.tech/contact
+## [About Me](https://www.adball.tech)
+### [Privacy Policy] (https://www.adball.tech/privacy)
 
 - Bulleted
 - List
